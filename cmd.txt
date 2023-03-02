@@ -1,0 +1,5 @@
+git init // Initialize a repository
+git add <file or folder> // Moving files to the staging area
+git commit <"m">// Moving files and folders to the staging area.
+git add . // Add all files and folders.
+
