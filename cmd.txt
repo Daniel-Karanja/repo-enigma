@@ -6,3 +6,8 @@ git log // Enables us to see our commit History
 
 git checkout // Enables us to checkout a commit or branch-switching.
 
+git branch // View all branch in your code.
+
+// IF you want to creat an new branch
+
+git branch <name> // Creating a new Branch
