@@ -4,3 +4,5 @@ git commit <"m">// Moving files and folders to the staging area.
 git add . // Add all files and folders.
 git log // Enables us to see our commit History
 
+git checkout // Enables us to checkout a commit or branch-switching.
+
