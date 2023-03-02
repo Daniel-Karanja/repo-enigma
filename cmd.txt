@@ -10,4 +10,24 @@ git branch // View all branch in your code.
 
 // IF you want to creat an new branch
 
-git branch <name> // Creating a new Branch
+git branch <name> // Creating a new Branch.
+
+
+
+git configure git.
+
+<Enables us to know who did what.>
+<Enable us to push our code to the cloud>
+<Enables to use the editor of your choice>
+
+
+configure global configuration. 
+configure localy.
+
+local configuration come before global.
+
+user Name and User email.
+
+to check you configuration
+
+cmd: git config --list
