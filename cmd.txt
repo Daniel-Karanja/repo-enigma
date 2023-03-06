@@ -37,3 +37,7 @@ cmd: git config --list
 
 config global editor
 -- git config --global core.editor "code --wait"
+
+
+cmd: git push
+Enables you to publish your changes to github.
