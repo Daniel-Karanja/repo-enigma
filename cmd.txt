@@ -28,6 +28,12 @@ local configuration come before global.
 
 user Name and User email.
 
+git config --global user.name <user_name>
+git config --global user.email <user_email>
+
 to check you configuration
 
 cmd: git config --list
+
+config global editor
+-- git config --global core.editor "code --wait"
